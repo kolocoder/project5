@@ -41,7 +41,8 @@ The following EXTRA features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5f6f8947a80f4880b1a3884f053fef1f-67012c9ce526d558-full-play.gif">
     </a>
   </div>
-GIF created with **kap**
+GIF created with **imgur**
+https://imgur.com/a/YPFjs7U
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
