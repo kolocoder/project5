@@ -29,7 +29,8 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
+- [x] I added a ScrollView to make the screen come out better.
 
 ## Video Demo
 
